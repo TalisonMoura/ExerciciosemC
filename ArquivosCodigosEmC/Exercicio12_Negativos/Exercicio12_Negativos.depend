@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673055229 source:c:\program files\codeblocks\arquivoscodigosemc\exercicio12_negativos\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673104236 source:c:\program files\codeblocks\arquivoscodigosemc\exercicio13_somavetor\main.c
+	<stdio.h>
+	<stdlib.h>
+

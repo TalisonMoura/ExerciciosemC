@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673049428 source:c:\program files\codeblocks\arquivoscodigosemc\exercicio9_mediaidade\main.c
+	<stdio.h>
+	<stdlib.h>
+
